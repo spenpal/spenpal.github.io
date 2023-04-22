@@ -1,2 +1,2 @@
-# spenpal.github.io
+# Sanjeev Penupala
 My Portfolio
